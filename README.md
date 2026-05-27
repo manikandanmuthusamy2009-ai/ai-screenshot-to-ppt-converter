@@ -7,7 +7,7 @@ AI-powered Streamlit application that converts screenshots into editable PowerPo
 ## 🚀 Live Demo
 
 🔗 Streamlit App:  
-[https://your-streamlit-url.streamlit.app](https://ai-screenshot-to-ppt-converter-nu6yuygkjlbjsqcqeuajkd.streamlit.app/)
+(https://ai-screenshot-to-ppt-converter-nu6yuygkjlbjsqcqeuajkd.streamlit.app/)
 
 ---
 
@@ -114,7 +114,7 @@ ai-screenshot-to-ppt-converter/
 ├── LICENSE
 └── images/
     ├── app-demo.jpg
-    ├── sample-input.jpg
+    ├── sample-input.png
     └── output-slide.jpg
 ```
 
