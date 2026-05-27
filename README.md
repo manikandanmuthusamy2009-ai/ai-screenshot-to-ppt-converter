@@ -130,6 +130,13 @@ ai-screenshot-to-ppt-converter/
 
 ---
 
+## ⚠️ Note
+
+This demo application uses Google Gemini API free-tier access.  
+If the app temporarily reaches quota limits, please retry after a short time.
+
+---
+
 ## 📜 License
 
 MIT License
