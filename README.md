@@ -19,7 +19,7 @@ AI-powered Streamlit application that converts screenshots into editable PowerPo
 ---
 
 ### Sample Input Screenshot
-![Sample Input](images/sample-input.jpg)
+![Sample Input](images/sample-input.png)
 
 ---
 
